@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="536" key="DIALOG_X_ORIGIN"/>
+		<item value="148" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.preferences.keysPreferencePage">
+		<item value="true" key="actionSetFilter"/>
+		<item value="true" key="uncategorizedFilter"/>
+		<item value="true" key="internalFilter"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="-1" key="dialogHeight"/>
+		<item value="-1" key="dialogWidth"/>
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.jdt.internal.ui.jarpackager.JarPackageWizard" key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID"/>
+		<item value="org.eclipse.ui.wizards.import.ZipFile" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.jdt.ui.Java"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+		<item value="false" key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\Anders Ulsted\Downloads\files.jar"/>
+			<item value="C:\Users\Anders Ulsted\Downloads\word.jar"/>
+			<item value="C:\Users\Anders Ulsted\Downloads\Searching.jar"/>
+			<item value="C:\Users\Anders Ulsted\Downloads\KASProjekt (1).jar"/>
+			<item value="C:\Users\Anders Ulsted\Downloads\KASProjekt.jar"/>
+			<item value="C:\Users\Anders Ulsted\Downloads\KASProjekt_TilmeldningWindow.jar"/>
+			<item value="C:\Users\Anders Ulsted\Downloads\Architecture1stSem.jar"/>
+			<item value="C:\Users\Anders Ulsted\Downloads\AfleveringArray.jar"/>
+			<item value="C:\Users\Anders Ulsted\Downloads\Yatzy.jar"/>
+			<item value="C:\Users\Anders Ulsted\Downloads\AbsenceSystem.jar"/>
+			<item value="C:\Users\Anders Ulsted\Downloads\GUI_student_app.jar"/>
+			<item value="C:\Users\Anders Ulsted\Downloads\JavaFX_GUI_examples.jar"/>
+			<item value="C:\Users\Anders Ulsted\Downloads\JavaFX_GUI_examples_part2.jar"/>
+			<item value="C:\Users\Anders Ulsted\Downloads\Child-1.jar"/>
+			<item value="C:\Users\Anders Ulsted\Downloads\StudentApp.jar"/>
+			<item value="C:\Users\Anders Ulsted\Downloads\DiceGames2.jar"/>
+			<item value="C:\Users\Anders Ulsted\Downloads\die.jar"/>
+			<item value="C:\Users\Anders Ulsted\Downloads\GeneraliseringElev.jar"/>
+			<item value="C:\Users\Anders Ulsted\Downloads\Stars.jar"/>
+			<item value="C:\Users\Anders Ulsted\Downloads\workshop.jar"/>
+		</list>
+	</section>
+</section>

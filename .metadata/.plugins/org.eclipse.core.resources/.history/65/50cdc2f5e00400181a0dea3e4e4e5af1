@@ -1,0 +1,18 @@
+package opgave2;
+
+public class Opgave2 {
+
+    public static void main(String[] args) {
+        
+    }
+    
+    public static int power(int n, int p) {
+        int result = 0;
+        if (p == 0) {
+            result = 1;
+        } else {
+            result = (int) Math.pow(n, p-1)* n;
+        }
+    }
+
+}

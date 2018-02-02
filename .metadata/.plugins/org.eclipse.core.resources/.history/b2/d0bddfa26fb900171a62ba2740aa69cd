@@ -1,0 +1,17 @@
+package bankaccount;
+
+public class MainApp {
+
+    public static void main(String[] args) {
+        BankAccount a = new BankAccount(1000.0);
+        BankAccount b = new BankAccount(2000.0);
+        BankAccount c = new BankAccount(3000.0);
+        a.deposit(500.0);
+        a.withdraw(250.0);
+        a.getBalance();
+        a.getId();
+        b.getId();
+        c.getId();
+        System.out.println(BankAccount.getAccounts());
+    }
+}
