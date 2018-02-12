@@ -35,6 +35,7 @@ public class App {
                 i1++;
             } else {
                 result.add(list.get(i2));
+                i2++;
             }
         }
 
